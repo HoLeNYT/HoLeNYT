@@ -2,7 +2,7 @@
 **На моём профиле можно увидеть:<br> - VK & Discord ботов.<br> - Использование API VimeWorld и других приложений.<br> - SQL таблицы для VimeWorld.<br> - И многое другое...**
 
 
-### Мои инструменты для кода:
+### Инструменты для кода:
 
 <a href="https://dashboard.heroku.com/"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/heroku.ico"></a>
 <a href="https://nodejs.org/ru/"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/nodejs.ico"></a>
