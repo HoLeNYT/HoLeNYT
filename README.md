@@ -3,6 +3,8 @@
 
 ### Контакты:
 <a href="https://discordapp.com/users/772532423115538452"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/discord.ico"></a>
+<a href="https://vk.com/holenyt"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/vk.ico"></a>
+
 
 ### Инструменты для кодинга:
 
