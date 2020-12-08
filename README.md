@@ -2,7 +2,7 @@
 **На моём профиле можно увидеть:<br> - VK & Discord ботов.<br> - Использование API VimeWorld и других приложений.<br> - SQL таблицы для VimeWorld.<br> - И многое другое...**
 
 ### Контакты:
-<img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/discord.ico"> - ```__HoLeN__ #2728```
+<img height="16" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/discord.ico"> - ```__HoLeN__ #2728```
 
 ### Инструменты для кодинга:
 
