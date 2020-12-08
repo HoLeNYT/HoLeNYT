@@ -7,6 +7,7 @@
 <a href="https://dashboard.heroku.com/"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/heroku.ico"></a>
 <a href="https://nodejs.org/ru/"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/nodejs.ico"></a>
 <a href="https://code.visualstudio.com/"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/vsc.ico"></a>
+<a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/idea.png"></a>
 
 Pinned
 
