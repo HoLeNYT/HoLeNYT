@@ -2,7 +2,7 @@
 
 <a href="https://dashboard.heroku.com/"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/heroku.ico"></a>
 <a href="https://nodejs.org/ru/"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/nodejs.ico"></a>
-<a href="https://github.com/HoLeNYT"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/github.png"></a>
+<a href="https://github.com/HoLeNYT"><img src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/github.png"></a>
 <!--
 **HoLeNYT/HoLeNYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
