@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/heroku.ico">
+
 <!--
 **HoLeNYT/HoLeNYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
