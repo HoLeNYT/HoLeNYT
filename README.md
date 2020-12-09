@@ -1,5 +1,5 @@
 ### Привет :)
-**На моём профиле можно увидеть:<br> - VK & Discord ботов.<br> - Использование API VimeWorld и других приложений.<br> - SQL таблицы для VimeWorld.<br> - И многое другое...**
+**На моём профиле можно увидеть:<br> - VK & Discord ботов.(Репозитории скрыты)<br> - Использование API VimeWorld и других приложений.(Репозитории скрыты)<br> - SQL таблицы для VimeWorld.<br> - И многое другое...**
 
 ### Контакты:
 <a href="https://discordapp.com/users/772532423115538452"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/discord.ico"></a>
