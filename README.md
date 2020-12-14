@@ -13,7 +13,7 @@
 <a href="https://code.visualstudio.com/"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/vsc.ico"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/download/#section=windows"><img height="32" src="https://github.com/HoLeNYT/HoLeNYT/blob/main/favicon/idea.png"></a>
 
-![HoLeNYT github stats](https://github-readme-stats.vercel.app/api?username=vlfz&theme=onedark&show_icons=true)
+![HoLeNYT github stats](https://github-readme-stats.vercel.app/api?username=HoLeNYT&theme=onedark&show_icons=true)
 
 
 
